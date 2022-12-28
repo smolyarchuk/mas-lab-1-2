@@ -1,0 +1,1 @@
+java -cp book-trading-agents.jar;lib/jade.jar  jade.Boot -container -host localhost -agents seller:examples.bookTrading.BookSellerAgent
